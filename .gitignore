@@ -1,5 +1,28 @@
-carbon_footprint_api/carbon-env/
-venv/
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+carbon-env/
+
+# Environment variables
 .env
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
