@@ -1,0 +1,5 @@
+carbon_footprint_api/carbon-env/
+venv/
+__pycache__/
+*.pyc
+.env
